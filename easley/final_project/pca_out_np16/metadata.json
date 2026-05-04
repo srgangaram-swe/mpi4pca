@@ -1,0 +1,18 @@
+{
+  "n_total": 3000000,
+  "d": 256,
+  "k": 16,
+  "dtype": "float64",
+  "standardize": false,
+  "whiten": false,
+  "ranks": 16,
+  "timings_sec": {
+    "load": 1.1654672622680664,
+    "center": 0.18382811546325684,
+    "cov_allreduce": 0.27033281326293945,
+    "eig": 0.008337736129760742,
+    "project": 0.06963062286376953,
+    "total": 1.697596549987793
+  },
+  "timestamp": "2025-12-01 19:03:17"
+}

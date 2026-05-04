@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Output / data
+pca_out/
+iris/
+iris_test/
+*.npy
+*.npz
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/

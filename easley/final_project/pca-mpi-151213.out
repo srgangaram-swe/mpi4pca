@@ -1,0 +1,4 @@
+SLURM_JOB_ID=151213 host=easley052
+NP_LIST=64
+=== NP=64 OUTDIR=pca_out_np64 ===
+Done. Timing CSV: timings_151213.csv
